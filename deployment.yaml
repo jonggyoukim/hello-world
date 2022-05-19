@@ -19,3 +19,4 @@ spec:
         image: jonggyou/hello-world
         ports:
         - containerPort: 8080
+
